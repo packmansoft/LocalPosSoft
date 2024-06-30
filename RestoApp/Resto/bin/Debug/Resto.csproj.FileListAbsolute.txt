@@ -1,0 +1,16 @@
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Resto.exe.config
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Resto.exe
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Resto.pdb
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Shared.v23.2.dll
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Win.Misc.v23.2.dll
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Win.v23.2.dll
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Shared.v23.2.xml
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Win.Misc.v23.2.xml
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\bin\Debug\Infragistics4.Win.v23.2.xml
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.csprojResolveAssemblyReference.cache
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.Form1.resources
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.Properties.Resources.resources
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.csproj.GenerateResource.Cache
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.exe.licenses
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.exe
+c:\users\packman\documents\visual studio 2015\Projects\Resto\Resto\obj\Debug\Resto.pdb
